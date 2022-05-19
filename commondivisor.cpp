@@ -22,6 +22,6 @@ int main()
             gcd=i;
         }
     }
-    cout<<gcd;
+    cout<<gcd<<"This is my modification";
     return 0;
 }
